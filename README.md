@@ -42,10 +42,13 @@ gli elementi saranno ordinati.
 ## Output
 
 Inserisci il numero di elementi del vettore: 10
+
 Vettore caricato:
+
 12 7 19 3 5 0 18 2 11 9
 
 Dopo GH-Sort:
+
 0 2 3 5 7 9 11 12 18 19
 
 ## Autore
